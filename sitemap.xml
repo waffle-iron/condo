@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://code.pulsebridge.com/shades/bower-download/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/bower/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/brew/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/about/history/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/about/license/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/start/overview/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/ruby/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/run/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/about/team/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/tsd/</loc>
+  </url>
+  <url>
+    <loc>http://code.pulsebridge.com/shades/update-self/</loc>
+  </url>
+</urlset>
