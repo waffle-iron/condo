@@ -7,7 +7,7 @@
         {
             "id"        : 2,
             "title"     : "History",
-            "url"       : "/about/history/",
+            "url"       : "/condo/about/history/",
             "group"     : "about" 
         } ,
     
@@ -16,7 +16,7 @@
         {
             "id"        : 3,
             "title"     : "License",
-            "url"       : "/about/license/",
+            "url"       : "/condo/about/license/",
             "group"     : "about" 
         } ,
     
@@ -25,7 +25,7 @@
         {
             "id"        : 4,
             "title"     : "Overview",
-            "url"       : "/start/overview/",
+            "url"       : "/condo/start/overview/",
             "group"     : "start" 
         } ,
     
@@ -34,7 +34,7 @@
         {
             "id"        : 5,
             "title"     : "PulseBridge &middot; Condo &middot; A build system for DNX-based projects.",
-            "url"       : "/",
+            "url"       : "/condo/",
             "group"     : "home" 
         } ,
     
@@ -43,7 +43,7 @@
         {
             "id"        : 6,
             "title"     : "Team",
-            "url"       : "/about/team/",
+            "url"       : "/condo/about/team/",
             "group"     : "about" 
         } ,
     
@@ -52,7 +52,7 @@
         {
             "id"        : 7,
             "title"     : "bower",
-            "url"       : "/shades/bower/",
+            "url"       : "/condo/shades/bower/",
             "group"     : "shades" 
         } ,
     
@@ -61,7 +61,7 @@
         {
             "id"        : 8,
             "title"     : "bower-download",
-            "url"       : "/shades/bower-download/",
+            "url"       : "/condo/shades/bower-download/",
             "group"     : "shades" 
         } ,
     
@@ -70,7 +70,7 @@
         {
             "id"        : 9,
             "title"     : "brew",
-            "url"       : "/shades/brew/",
+            "url"       : "/condo/shades/brew/",
             "group"     : "shades" 
         } ,
     
@@ -79,7 +79,7 @@
         {
             "id"        : 10,
             "title"     : "ruby",
-            "url"       : "/shades/ruby/",
+            "url"       : "/condo/shades/ruby/",
             "group"     : "shades" 
         } ,
     
@@ -88,7 +88,7 @@
         {
             "id"        : 11,
             "title"     : "run",
-            "url"       : "/shades/run/",
+            "url"       : "/condo/shades/run/",
             "group"     : "shades" 
         } ,
     
@@ -97,7 +97,7 @@
         {
             "id"        : 12,
             "title"     : "tsd",
-            "url"       : "/shades/tsd/",
+            "url"       : "/condo/shades/tsd/",
             "group"     : "shades" 
         } ,
     
@@ -106,7 +106,7 @@
         {
             "id"        : 13,
             "title"     : "update-self",
-            "url"       : "/shades/update-self/",
+            "url"       : "/condo/shades/update-self/",
             "group"     : "shades" 
         } 
     
