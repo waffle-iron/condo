@@ -4,8 +4,59 @@
     
 
     
+
+    
+
+    
+
+    
         {
-            "id"        : 2,
+            "id"        : 5,
+            "title"     : "Assembly Info",
+            "url"       : "/condo/utilities/assembly-info/",
+            "group"     : "utilities" 
+        } ,
+    
+
+    
+        {
+            "id"        : 6,
+            "title"     : "Best Practices",
+            "url"       : "/condo/start/best-practices/",
+            "group"     : "start" 
+        } ,
+    
+
+    
+        {
+            "id"        : 7,
+            "title"     : "Build Tools",
+            "url"       : "/condo/utilities/build-tools/",
+            "group"     : "utilities" 
+        } ,
+    
+
+    
+        {
+            "id"        : 8,
+            "title"     : "Default Goals",
+            "url"       : "/condo/start/default-goals/",
+            "group"     : "start" 
+        } ,
+    
+
+    
+        {
+            "id"        : 9,
+            "title"     : "Default Lifecycle",
+            "url"       : "/condo/start/default-lifecycle/",
+            "group"     : "start" 
+        } ,
+    
+
+    
+        {
+            "id"        : 10,
             "title"     : "History",
             "url"       : "/condo/about/history/",
             "group"     : "about" 
@@ -14,7 +65,7 @@
 
     
         {
-            "id"        : 3,
+            "id"        : 11,
             "title"     : "License",
             "url"       : "/condo/about/license/",
             "group"     : "about" 
@@ -23,7 +74,7 @@
 
     
         {
-            "id"        : 4,
+            "id"        : 12,
             "title"     : "Overview",
             "url"       : "/condo/start/overview/",
             "group"     : "start" 
@@ -32,7 +83,16 @@
 
     
         {
-            "id"        : 5,
+            "id"        : 13,
+            "title"     : "Prerequisites",
+            "url"       : "/condo/start/prerequisites/",
+            "group"     : "start" 
+        } ,
+    
+
+    
+        {
+            "id"        : 14,
             "title"     : "PulseBridge &middot; Condo &middot; A build system for DNX-based projects.",
             "url"       : "/condo/",
             "group"     : "home" 
@@ -41,7 +101,16 @@
 
     
         {
-            "id"        : 6,
+            "id"        : 15,
+            "title"     : "Semantic Versioning",
+            "url"       : "/condo/start/semantic-versioning/",
+            "group"     : "start" 
+        } ,
+    
+
+    
+        {
+            "id"        : 16,
             "title"     : "Team",
             "url"       : "/condo/about/team/",
             "group"     : "about" 
@@ -50,7 +119,7 @@
 
     
         {
-            "id"        : 7,
+            "id"        : 17,
             "title"     : "bower",
             "url"       : "/condo/shades/bower/",
             "group"     : "shades" 
@@ -59,7 +128,7 @@
 
     
         {
-            "id"        : 8,
+            "id"        : 18,
             "title"     : "bower-download",
             "url"       : "/condo/shades/bower-download/",
             "group"     : "shades" 
@@ -68,7 +137,16 @@
 
     
         {
-            "id"        : 9,
+            "id"        : 19,
+            "title"     : "bower-install",
+            "url"       : "/condo/shades/bower-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 20,
             "title"     : "brew",
             "url"       : "/condo/shades/brew/",
             "group"     : "shades" 
@@ -77,7 +155,457 @@
 
     
         {
-            "id"        : 10,
+            "id"        : 21,
+            "title"     : "brew-download",
+            "url"       : "/condo/shades/brew-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 22,
+            "title"     : "brew-install",
+            "url"       : "/condo/shades/brew-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 23,
+            "title"     : "bundle",
+            "url"       : "/condo/shades/bundle/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 24,
+            "title"     : "bundle-download",
+            "url"       : "/condo/shades/bundle-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 25,
+            "title"     : "bundle-install",
+            "url"       : "/condo/shades/bundle-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 26,
+            "title"     : "copy",
+            "url"       : "/condo/shades/copy/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 27,
+            "title"     : "cover-report",
+            "url"       : "/condo/shades/cover-report/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 28,
+            "title"     : "dnu",
+            "url"       : "/condo/shades/dnu/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 29,
+            "title"     : "dnu-build",
+            "url"       : "/condo/shades/dnu-build/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 30,
+            "title"     : "dnu-pack",
+            "url"       : "/condo/shades/dnu-pack/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 31,
+            "title"     : "dnu-restore",
+            "url"       : "/condo/shades/dnu-restore/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 32,
+            "title"     : "dnvm-locate",
+            "url"       : "/condo/shades/dnvm-locate/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 33,
+            "title"     : "dnx",
+            "url"       : "/condo/shades/dnx/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 34,
+            "title"     : "dnx-run",
+            "url"       : "/condo/shades/dnx-run/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 35,
+            "title"     : "dnx-test",
+            "url"       : "/condo/shades/dnx-test/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 36,
+            "title"     : "dnx-watch",
+            "url"       : "/condo/shades/dnx-watch/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 37,
+            "title"     : "dnx-watch-download",
+            "url"       : "/condo/shades/dnx-watch-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 38,
+            "title"     : "dotnet-clean",
+            "url"       : "/condo/shades/dotnet-clean/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 39,
+            "title"     : "dotnet-cover",
+            "url"       : "/condo/shades/dotnet-cover/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 40,
+            "title"     : "exec",
+            "url"       : "/condo/shades/exec/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 41,
+            "title"     : "gem",
+            "url"       : "/condo/shades/gem/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 42,
+            "title"     : "gem-install",
+            "url"       : "/condo/shades/gem-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 43,
+            "title"     : "git",
+            "url"       : "/condo/shades/git/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 44,
+            "title"     : "git-config",
+            "url"       : "/condo/shades/git-config/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 45,
+            "title"     : "git-tag",
+            "url"       : "/condo/shades/git-tag/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 46,
+            "title"     : "gm-download",
+            "url"       : "/condo/shades/gm-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 47,
+            "title"     : "grunt",
+            "url"       : "/condo/shades/grunt/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 48,
+            "title"     : "grunt-download",
+            "url"       : "/condo/shades/grunt-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 49,
+            "title"     : "gulp",
+            "url"       : "/condo/shades/gulp/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 50,
+            "title"     : "gulp-download",
+            "url"       : "/condo/shades/gulp-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 51,
+            "title"     : "gulp-list",
+            "url"       : "/condo/shades/gulp-list/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 52,
+            "title"     : "gulp-task",
+            "url"       : "/condo/shades/gulp-task/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 53,
+            "title"     : "info",
+            "url"       : "/condo/shades/info/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 54,
+            "title"     : "info-collect",
+            "url"       : "/condo/shades/info-collect/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 55,
+            "title"     : "log",
+            "url"       : "/condo/shades/log/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 56,
+            "title"     : "mkdir",
+            "url"       : "/condo/shades/mkdir/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 57,
+            "title"     : "mocha",
+            "url"       : "/condo/shades/mocha/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 58,
+            "title"     : "mocha-download",
+            "url"       : "/condo/shades/mocha-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 59,
+            "title"     : "node",
+            "url"       : "/condo/shades/node/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 60,
+            "title"     : "node-download",
+            "url"       : "/condo/shades/node-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 61,
+            "title"     : "npm",
+            "url"       : "/condo/shades/npm/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 62,
+            "title"     : "npm-install",
+            "url"       : "/condo/shades/npm-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 63,
+            "title"     : "nuget",
+            "url"       : "/condo/shades/nuget/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 64,
+            "title"     : "nuget-download",
+            "url"       : "/condo/shades/nuget-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 65,
+            "title"     : "nuget-install",
+            "url"       : "/condo/shades/nuget-install/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 66,
+            "title"     : "nuget-pack",
+            "url"       : "/condo/shades/nuget-pack/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 67,
+            "title"     : "nuget-push",
+            "url"       : "/condo/shades/nuget-push/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 68,
+            "title"     : "nuget-restore",
+            "url"       : "/condo/shades/nuget-restore/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 69,
+            "title"     : "rimraf",
+            "url"       : "/condo/shades/rimraf/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 70,
+            "title"     : "rimraf-download",
+            "url"       : "/condo/shades/rimraf-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 71,
             "title"     : "ruby",
             "url"       : "/condo/shades/ruby/",
             "group"     : "shades" 
@@ -86,7 +614,16 @@
 
     
         {
-            "id"        : 11,
+            "id"        : 72,
+            "title"     : "ruby-locate",
+            "url"       : "/condo/shades/ruby-locate/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 73,
             "title"     : "run",
             "url"       : "/condo/shades/run/",
             "group"     : "shades" 
@@ -95,7 +632,7 @@
 
     
         {
-            "id"        : 12,
+            "id"        : 74,
             "title"     : "tsd",
             "url"       : "/condo/shades/tsd/",
             "group"     : "shades" 
@@ -104,9 +641,27 @@
 
     
         {
-            "id"        : 13,
+            "id"        : 75,
+            "title"     : "tsd-download",
+            "url"       : "/condo/shades/tsd-download/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 76,
             "title"     : "update-self",
             "url"       : "/condo/shades/update-self/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 77,
+            "title"     : "verify-hash",
+            "url"       : "/condo/shades/verify-hash/",
             "group"     : "shades" 
         } 
     

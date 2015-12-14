@@ -3,4 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-Sitemap: http://code.pulsebridge.com/sitemap.xml
+Sitemap: http://open.pulsebridge.com/sitemap.xml

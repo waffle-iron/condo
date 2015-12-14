@@ -3,11 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://code.pulsebridge.com/condo/</link>
-    <atom:link href="http://code.pulsebridge.com/condo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Dec 2015 15:46:56 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Dec 2015 15:46:56 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://open.pulsebridge.com/condo/</link>
+    <atom:link href="http://open.pulsebridge.com/condo/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Dec 2015 16:09:03 -0800</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 16:09:03 -0800</lastBuildDate>
     
   </channel>
 </rss>
