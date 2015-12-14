@@ -40,19 +40,10 @@
     <loc>http://open.pulsebridge.com/condo/shades/copy/</loc>
   </url>
   <url>
-    <loc>http://open.pulsebridge.com/condo/shades/cover-report/</loc>
-  </url>
-  <url>
     <loc>http://open.pulsebridge.com/condo/start/default-goals/</loc>
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/start/default-lifecycle/</loc>
-  </url>
-  <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnu-build/</loc>
-  </url>
-  <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnu-pack/</loc>
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/dnu-restore/</loc>
@@ -79,10 +70,19 @@
     <loc>http://open.pulsebridge.com/condo/shades/dnx/</loc>
   </url>
   <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-build/</loc>
+  </url>
+  <url>
     <loc>http://open.pulsebridge.com/condo/shades/dotnet-clean/</loc>
   </url>
   <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-cover-report/</loc>
+  </url>
+  <url>
     <loc>http://open.pulsebridge.com/condo/shades/dotnet-cover/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-pack/</loc>
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/exec/</loc>

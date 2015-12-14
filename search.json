@@ -210,15 +210,6 @@
     
         {
             "id"        : 27,
-            "title"     : "cover-report",
-            "url"       : "/condo/shades/cover-report/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 28,
             "title"     : "dnu",
             "url"       : "/condo/shades/dnu/",
             "group"     : "shades" 
@@ -227,25 +218,7 @@
 
     
         {
-            "id"        : 29,
-            "title"     : "dnu-build",
-            "url"       : "/condo/shades/dnu-build/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 30,
-            "title"     : "dnu-pack",
-            "url"       : "/condo/shades/dnu-pack/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 31,
+            "id"        : 28,
             "title"     : "dnu-restore",
             "url"       : "/condo/shades/dnu-restore/",
             "group"     : "shades" 
@@ -254,7 +227,7 @@
 
     
         {
-            "id"        : 32,
+            "id"        : 29,
             "title"     : "dnvm-locate",
             "url"       : "/condo/shades/dnvm-locate/",
             "group"     : "shades" 
@@ -263,7 +236,7 @@
 
     
         {
-            "id"        : 33,
+            "id"        : 30,
             "title"     : "dnx",
             "url"       : "/condo/shades/dnx/",
             "group"     : "shades" 
@@ -272,7 +245,7 @@
 
     
         {
-            "id"        : 34,
+            "id"        : 31,
             "title"     : "dnx-run",
             "url"       : "/condo/shades/dnx-run/",
             "group"     : "shades" 
@@ -281,7 +254,7 @@
 
     
         {
-            "id"        : 35,
+            "id"        : 32,
             "title"     : "dnx-test",
             "url"       : "/condo/shades/dnx-test/",
             "group"     : "shades" 
@@ -290,7 +263,7 @@
 
     
         {
-            "id"        : 36,
+            "id"        : 33,
             "title"     : "dnx-watch",
             "url"       : "/condo/shades/dnx-watch/",
             "group"     : "shades" 
@@ -299,7 +272,7 @@
 
     
         {
-            "id"        : 37,
+            "id"        : 34,
             "title"     : "dnx-watch-download",
             "url"       : "/condo/shades/dnx-watch-download/",
             "group"     : "shades" 
@@ -308,7 +281,16 @@
 
     
         {
-            "id"        : 38,
+            "id"        : 35,
+            "title"     : "dotnet-build",
+            "url"       : "/condo/shades/dotnet-build/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 36,
             "title"     : "dotnet-clean",
             "url"       : "/condo/shades/dotnet-clean/",
             "group"     : "shades" 
@@ -317,9 +299,27 @@
 
     
         {
-            "id"        : 39,
+            "id"        : 37,
             "title"     : "dotnet-cover",
             "url"       : "/condo/shades/dotnet-cover/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 38,
+            "title"     : "dotnet-cover-report",
+            "url"       : "/condo/shades/dotnet-cover-report/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 39,
+            "title"     : "dotnet-pack",
+            "url"       : "/condo/shades/dotnet-pack/",
             "group"     : "shades" 
         } ,
     
