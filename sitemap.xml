@@ -46,9 +46,6 @@
     <loc>http://open.pulsebridge.com/condo/start/default-lifecycle/</loc>
   </url>
   <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnu-restore/</loc>
-  </url>
-  <url>
     <loc>http://open.pulsebridge.com/condo/shades/dnu/</loc>
   </url>
   <url>
@@ -83,6 +80,9 @@
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/dotnet-pack/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-restore/</loc>
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/exec/</loc>
