@@ -52,18 +52,6 @@
     <loc>http://open.pulsebridge.com/condo/shades/dnvm-locate/</loc>
   </url>
   <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnx-run/</loc>
-  </url>
-  <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnx-test/</loc>
-  </url>
-  <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnx-watch-download/</loc>
-  </url>
-  <url>
-    <loc>http://open.pulsebridge.com/condo/shades/dnx-watch/</loc>
-  </url>
-  <url>
     <loc>http://open.pulsebridge.com/condo/shades/dnx/</loc>
   </url>
   <url>
@@ -83,6 +71,18 @@
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/dotnet-restore/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-run/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-test/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-watch-download/</loc>
+  </url>
+  <url>
+    <loc>http://open.pulsebridge.com/condo/shades/dotnet-watch/</loc>
   </url>
   <url>
     <loc>http://open.pulsebridge.com/condo/shades/exec/</loc>

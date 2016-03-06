@@ -93,7 +93,7 @@
     
         {
             "id"        : 14,
-            "title"     : "PulseBridge &middot; Condo &middot; A build system for DNX-based projects.",
+            "title"     : "PulseBridge &middot; Condo &middot; A continous integration build system.",
             "url"       : "/condo/",
             "group"     : "home" 
         } ,
@@ -237,42 +237,6 @@
     
         {
             "id"        : 30,
-            "title"     : "dnx-run",
-            "url"       : "/condo/shades/dnx-run/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 31,
-            "title"     : "dnx-test",
-            "url"       : "/condo/shades/dnx-test/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 32,
-            "title"     : "dnx-watch",
-            "url"       : "/condo/shades/dnx-watch/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 33,
-            "title"     : "dnx-watch-download",
-            "url"       : "/condo/shades/dnx-watch-download/",
-            "group"     : "shades" 
-        } ,
-    
-
-    
-        {
-            "id"        : 34,
             "title"     : "dotnet-build",
             "url"       : "/condo/shades/dotnet-build/",
             "group"     : "shades" 
@@ -281,7 +245,7 @@
 
     
         {
-            "id"        : 35,
+            "id"        : 31,
             "title"     : "dotnet-clean",
             "url"       : "/condo/shades/dotnet-clean/",
             "group"     : "shades" 
@@ -290,7 +254,7 @@
 
     
         {
-            "id"        : 36,
+            "id"        : 32,
             "title"     : "dotnet-cover",
             "url"       : "/condo/shades/dotnet-cover/",
             "group"     : "shades" 
@@ -299,7 +263,7 @@
 
     
         {
-            "id"        : 37,
+            "id"        : 33,
             "title"     : "dotnet-cover-report",
             "url"       : "/condo/shades/dotnet-cover-report/",
             "group"     : "shades" 
@@ -308,7 +272,7 @@
 
     
         {
-            "id"        : 38,
+            "id"        : 34,
             "title"     : "dotnet-pack",
             "url"       : "/condo/shades/dotnet-pack/",
             "group"     : "shades" 
@@ -317,9 +281,45 @@
 
     
         {
-            "id"        : 39,
+            "id"        : 35,
             "title"     : "dotnet-restore",
             "url"       : "/condo/shades/dotnet-restore/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 36,
+            "title"     : "dotnet-run",
+            "url"       : "/condo/shades/dotnet-run/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 37,
+            "title"     : "dotnet-test",
+            "url"       : "/condo/shades/dotnet-test/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 38,
+            "title"     : "dotnet-watch",
+            "url"       : "/condo/shades/dotnet-watch/",
+            "group"     : "shades" 
+        } ,
+    
+
+    
+        {
+            "id"        : 39,
+            "title"     : "dotnet-watch-download",
+            "url"       : "/condo/shades/dotnet-watch-download/",
             "group"     : "shades" 
         } ,
     
