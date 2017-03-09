@@ -130,18 +130,19 @@ Condo no longer uses the ```<SemanticVersion>``` tag found in `condo.build`. The
 * bug in expand when downloading condo from src (#22) 0a59505, closes #22
 
 
-<a name="2.0.0-alpha-02380"></a>
-## 2.0.0-alpha-02380 (2017-03-09)
+<a name="2.0.0-alpha-02381"></a>
+## 2.0.0-alpha-02381 (2017-03-09)
 
 
 ### Features
 
-* **checkout:** add checkout branch task b7204e9
+* **checkout:** add checkout branch task b0a6b7d
+* **msbuild:** add support for msbuild project system (#44) 86c588a, closes #44
 
 
 ### Bug Fixes
 
-* **project-json:** do not parse msbuild files cd60cce
+* **project-json:** do not parse msbuild files 206cabd
 
 
 <a name="2.0.0-alpha-02030"></a>
@@ -151,35 +152,6 @@ Condo no longer uses the ```<SemanticVersion>``` tag found in `condo.build`. The
 ### Bug Fixes
 
 * **changelog:** resolve issue with tags (#32) 774651c, closes #32
-
-
-<a name="2.0.0-alpha-00398"></a>
-## 2.0.0-alpha-00398 (2017-02-07)
-
-
-<a name="2.0.0-alpha-00397"></a>
-## 2.0.0-alpha-00397 (2017-02-07)
-
-
-<a name="2.0.0-alpha-00396"></a>
-## 2.0.0-alpha-00396 (2017-02-07)
-
-
-<a name="2.0.0-alpha-00395"></a>
-## 2.0.0-alpha-00395 (2017-02-07)
-
-
-<a name="2.0.0-alpha-00394"></a>
-## 2.0.0-alpha-00394 (2017-02-07)
-
-
-<a name="2.0.0-alpha-00389"></a>
-## 2.0.0-alpha-00389 (2017-02-03)
-
-
-### Features
-
-* **release:** add a unique remote for push 7a06dbe
 
 
 <a name="1.0.0-rc-176"></a>
