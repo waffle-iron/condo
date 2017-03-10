@@ -2,8 +2,8 @@
 
 > All notable changes to this project will be documented in this file.
 
-<a name="2.0.0-alpha-02395"></a>
-## 2.0.0-alpha-02395 (2017-03-10)
+<a name="2.0.0-alpha-02396"></a>
+## 2.0.0-alpha-02396 (2017-03-10)
 
 
 ### Features
@@ -21,6 +21,7 @@
 
 ### Bug Fixes
 
+* **install:** recursive fix 2a6e82c
 * **install:** update posh scripts 0315468
 * **git:** checkout branch task was missing (#45) 57462c7, closes #45
 * **release:** checkout branch due to detached head (#41) 05b4c26, closes #41
@@ -46,8 +47,8 @@ BREAKING CHANGE:
 Condo no longer uses the ```<SemanticVersion>``` tag found in `condo.build`. The version is now based on git tags.
 
 
-<a name="2.0.0-alpha-02395"></a>
-## 2.0.0-alpha-02395 (2017-03-10)
+<a name="2.0.0-alpha-02396"></a>
+## 2.0.0-alpha-02396 (2017-03-10)
 
 
 ### Features
@@ -65,6 +66,7 @@ Condo no longer uses the ```<SemanticVersion>``` tag found in `condo.build`. The
 
 ### Bug Fixes
 
+* **install:** recursive fix 2a6e82c
 * **install:** update posh scripts 0315468
 * **git:** checkout branch task was missing (#45) 57462c7, closes #45
 * **release:** checkout branch due to detached head (#41) 05b4c26, closes #41
