@@ -2,8 +2,8 @@
 
 > All notable changes to this project will be documented in this file.
 
-<a name="2.0.0-alpha-02397"></a>
-## 2.0.0-alpha-02397 (2017-03-10)
+<a name="2.0.0-alpha-02398"></a>
+## 2.0.0-alpha-02398 (2017-03-10)
 
 
 ### Features
@@ -48,8 +48,8 @@ BREAKING CHANGE:
 Condo no longer uses the ```<SemanticVersion>``` tag found in `condo.build`. The version is now based on git tags.
 
 
-<a name="2.0.0-alpha-02397"></a>
-## 2.0.0-alpha-02397 (2017-03-10)
+<a name="2.0.0-alpha-02398"></a>
+## 2.0.0-alpha-02398 (2017-03-10)
 
 
 ### Features
