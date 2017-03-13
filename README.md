@@ -1,5 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/automotiveMastermind/condo.png?label=ready&title=Ready)](https://waffle.io/automotiveMastermind/condo)
 [![Stories in Ready](https://badge.waffle.io/automotiveMastermind/condo.png?label=ready&title=Ready)](https://waffle.io/automotiveMastermind/condo)
+[![Stories in Ready](https://badge.waffle.io/automotiveMastermind/condo.png?label=ready&title=Ready)](https://waffle.io/automotiveMastermind/condo)
 # condo
 
 > A build system for \<any\> project.
